@@ -15,8 +15,8 @@
     "name": "1234",
     "number": "6752",
     "avatar": "https://ui-avatars.com/api/?name=1234&background=0066ff&color=fff&bold=true&size=128",
-    "online": true,
-    "lastSeen": "2026-01-24T12:43:12.063Z",
+    "online": false,
+    "lastSeen": "2026-01-24T12:43:28.613Z",
     "ip": "182.10.129.4",
     "contacts": [
       "2042"
