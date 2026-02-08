@@ -34,5 +34,14 @@
     "type": "image",
     "timestamp": "2026-01-24T13:01:58.106Z",
     "chatId": "2042_6752"
+  },
+  {
+    "id": "1770542739300",
+    "sender": "2042",
+    "receiver": "6752",
+    "content": "apalahh",
+    "type": "text",
+    "timestamp": "2026-02-08T09:25:39.300Z",
+    "chatId": "2042_6752"
   }
 ]
